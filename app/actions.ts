@@ -16,7 +16,7 @@ export async function submitContactForm(formData: FormData) {
   // Email content
   const emailContent = {
     from: "Contact Form <onboarding@resend.dev>",
-    to: "rochidiezux@gmail.com",
+    to: "pecciagustin@gmail.com",
     subject: "Nueva Solicitud de Contacto - Agus Pecci Photography",
     html: `
       <h2>Nueva Solicitud de Contacto</h2>
