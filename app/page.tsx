@@ -349,11 +349,11 @@ export default function AgusPecciPhotography({
               </div>
             </div>
 
-            {/* Competition Photography */}
+            {/* Content for Creators */}
             <div
               onClick={() =>
                 window.open(
-                  `https://wa.me/34624629701?text=Hola! Me interesa la sesion de fotos Competition Photography`,
+                  `https://wa.me/34624629701?text=Hola! Me interesa la sesion de foto Content for Creators`,
                   "_blank",
                 )
               }
@@ -361,7 +361,7 @@ export default function AgusPecciPhotography({
             >
               <div className="p-6 flex flex-col h-full">
                 <div className="text-center mb-6">
-                  <h3 className="text-xl font-bold text-gray-900 mb-2">Fotografía de Competición</h3>
+                  <h3 className="text-xl font-bold text-gray-900 mb-2">Contenido para Creadores</h3>
                   <p className="text-gray-600 text-sm">Para Coachs o Influencers</p>
                 </div>
 
