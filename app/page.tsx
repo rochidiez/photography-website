@@ -362,25 +362,25 @@ export default function AgusPecciPhotography({
               <div className="p-6 flex flex-col h-full">
                 <div className="text-center mb-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Fotografía de Competición</h3>
-                  <p className="text-gray-600 text-sm">Para eventos deportivos</p>
+                  <p className="text-gray-600 text-sm">Para Coachs o Influencers</p>
                 </div>
 
                 <div className="space-y-3 mb-6 flex-grow">
                   <div className="flex items-center text-sm text-gray-600">
                     <CheckCircle className="h-4 w-4 text-[#e0c3f2] mr-2 flex-shrink-0" />
-                    <span>Cobertura del evento</span>
+                    <span>Reels y photos para destacarte en redes</span>
                   </div>
                   <div className="flex items-center text-sm text-gray-600">
                     <CheckCircle className="h-4 w-4 text-[#e0c3f2] mr-2 flex-shrink-0" />
-                    <span>Múltiples ángulos y perspectivas</span>
+                    <span>Sesiones de Personal Branding.</span>
+                  </div>
+                  <div className="flex items-center text-sm text-gray-600">
+                    <CheckCircle className="h-4 w-4 text-[#e0c3f2] mr-2 flex-shrink-0" />
+                    <span>Sesiones de entrenamiento o coaching.</span>
                   </div>
                   <div className="flex items-center text-sm text-gray-600">
                     <CheckCircle className="h-4 w-4 text-[#e0c3f2] mr-2 flex-shrink-0" />
                     <span>Entrega rápida</span>
-                  </div>
-                  <div className="flex items-center text-sm text-gray-600">
-                    <CheckCircle className="h-4 w-4 text-[#e0c3f2] mr-2 flex-shrink-0" />
-                    <span>Fotos de equipo e individuales</span>
                   </div>
                 </div>
 
@@ -601,7 +601,7 @@ export default function AgusPecciPhotography({
               <h5 className="font-semibold mb-4">Servicios de Fotografía Barcelona</h5>
               <ul className="space-y-2 text-gray-400">
                 <li>Fotografía de Sesiones de Entrenamiento</li>
-                <li>Fotografía de Competición</li>
+                <li>Contenido para Creadores</li>
                 <li>Retratos Atléticos</li>
                 <li>Fotografía de Equipo</li>
                 <li>Fotografía Fitness</li>
